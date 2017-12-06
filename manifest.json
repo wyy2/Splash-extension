@@ -3,7 +3,7 @@
 
   "name": "Crypto Project",
   "description": "Productivity tool to get all the essential information about crypto project in a single click.",
-  "version": "0.0.0.7",
+  "version": "0.0.0.27",
   "icons": {
     "128": "images/icon_128.png",
     "48": "images/icon_48.png",
